@@ -1,0 +1,27 @@
+
+#letsgo{
+    color: red;
+}
+#next{
+    text-align:right;
+}
+.responsive{
+    height: auto;
+}
+
+#gpt {
+    text-align: center;
+    color: indianred;
+    /* font-family: cursive; */
+    background-size: contain;
+    background-size: cover;
+
+}
+
+body{
+    /* background-color:linen; */
+    background-size: contain;
+    font-family: cursive;
+    
+}
+
