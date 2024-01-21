@@ -23,7 +23,7 @@ st.markdown("")
 col1, col2, col3 = st.columns(3, gap='medium')
 with col1:
     st.write("I wish I can see the corresponding teachers of each class...I have to go all the way to the enrollment page to see the instructures :(")
-    st.image("ConU/img/search.jpg")
+    st.image("ConU/img/search.jpg",caption = https://www.freepik.com/free-vector/student-stress-concept-illustration_27828937.htm#query=busy&position=25&from_view=search&track=sph&uuid=a92733f7-98da-4176-b339-1dc45a007a0d Image by storyset on Freepik')
    
 with col2:
     st.write("I want to know who is the best teacher of the class. ")
