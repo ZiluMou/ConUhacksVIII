@@ -129,7 +129,7 @@ st.markdown("")
 st.markdown("")
 with st.expander("Image credit"):
     st.write('"https://www.freepik.com/free-vector/student-stress-concept-illustration_27828937.htm#query=busy&position=25&from_view=search&track=sph&uuid=a92733f7-98da-4176-b339-1dc45a007a0d"')
-    st.wrtie('"https://www.freepik.com/free-vector/customer-survey-concept-illustration_5841882.htm#from_view=detail_author"')
+    st.write('"https://www.freepik.com/free-vector/customer-survey-concept-illustration_5841882.htm#from_view=detail_author"')
     st.write('"https://www.freepik.com/free-vector/search-concept-illustration_4957155.htm#page=3&position=2&from_view=author&uuid=bf2feb3f-fb5a-417f-b3e1-cc9452fb97ac"')
     st.write('Images by storyset on Freepik')
 
