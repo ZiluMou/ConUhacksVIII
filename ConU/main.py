@@ -38,7 +38,7 @@ st.divider()
 st.markdown("### :thumbsup: We are here to help you!")
 
 st.markdown("#### :question: How does it work?")
-st.write("W have feeded AI all the data of classes and professors. ...")
+st.write("We used OpenAI API playground and GPT store to create the chatbox. Then, we feed the data of Concordia. Voila! Here is the expert of Concordia!")
 
 st.markdown("#### :question:  What kind of questions can I ask?")
 st.write("Below are the examples of the commands:")
@@ -124,10 +124,13 @@ with st.sidebar:
 st.header(":arrow_left: Now open the sidebar to start!")
 st.text("You can always adjust the size of the sidebar")
 
+st.markdown("")
+st.markdown("")
+st.markdown("")
 with st.expander("Image credit"):
     st.write('"https://www.freepik.com/free-vector/student-stress-concept-illustration_27828937.htm#query=busy&position=25&from_view=search&track=sph&uuid=a92733f7-98da-4176-b339-1dc45a007a0d"')
     st.wrtie('"https://www.freepik.com/free-vector/customer-survey-concept-illustration_5841882.htm#from_view=detail_author"')
     st.write('"https://www.freepik.com/free-vector/search-concept-illustration_4957155.htm#page=3&position=2&from_view=author&uuid=bf2feb3f-fb5a-417f-b3e1-cc9452fb97ac"')
-    st.wrte('Images by storyset on Freepik')
+    st.write('Images by storyset on Freepik')
 
 # st.link_button("Click here to try ConUGPT!", "https://conugpt.netlify.app/", type='primary')
