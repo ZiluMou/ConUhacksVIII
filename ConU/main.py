@@ -4,9 +4,8 @@ import streamlit.components.v1 as components
 st.set_page_config(
     page_title="Intro to ConUGPT",
     page_icon="👋",
-    layout='wide'
+    # layout='wide'
 )
-
 
 st.title('Welcome to our ConUGPT!')
 st.markdown('''
@@ -21,15 +20,18 @@ st.markdown("")
 col1, col2, col3 = st.columns(3, gap='medium')
 with col1:
     st.write("I wish I can see the corresponding teachers of each class...I have to go all the way to the enrollment page to see the instructures :(")
-    st.image("img/search.jpg")
+    st.image("ConU/img/search.jpg")
     
 with col2:
     st.write("I want to know who is the best teacher of the class. ")
-    st.image("img/survey.jpg")
+    st.image("ConU/img/survey.jpg")
+
 with col3:
     st.write("It's very annoying to search every single teacher, making tons of tabs!")
-    st.image("img/stress.jpg")
+    st.image("ConU/img/stress.jpg")
+    
 st.divider()
+
 st.markdown("### :thumbsup: We are here to help you!")
 st.markdown("#### :question: How to")
 st.write("Very simple. Just ask what you are looking for!")
