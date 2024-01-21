@@ -10,9 +10,6 @@ st.set_page_config(
 )
 
 
-# bigcol1, bigcol2 = st.columns([3,1])
-# with bigcol1:
-
 st.title('Welcome to our ConUGPT!')
 st.markdown('''
 A customized GPT that helps students find information about their Concorida teachers.
@@ -45,6 +42,7 @@ st.write("W have feeded AI all the data of classes and professors. ...")
 
 st.markdown("#### :question:  What kind of questions can I ask?")
 st.write("Below are the examples of the commands:")
+
 with st.chat_message("user"):
     st.write("Who are the teachers of comp 233? Who has the best rate among them?")
 with st.chat_message("ai"):
@@ -110,6 +108,7 @@ html_string = '''
 <body>
     <div class="left-column">
         <h1 style="font-family: sans-serif">Ask Here!</h1>
+        <span style='font-size:50px;'>&#8595;</span>
     </div>
 </body>
 </html>
@@ -118,12 +117,7 @@ html_string = '''
 with st.sidebar:
     components.html(html_string, height=705)
 
-
-# with bigcol2:
-#     components.html(html_string, height=800)
-
-
-st.header("Now open the sidebar to start!")
+st.header(":arrow_left: Now open the sidebar to start!")
 st.text("You can always adjust the size of the sidebar")
 
 # st.link_button("Click here to try ConUGPT!", "https://conugpt.netlify.app/", type='primary')
