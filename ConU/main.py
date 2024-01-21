@@ -5,7 +5,8 @@ import streamlit.components.v1 as components
 st.set_page_config(
     page_title="Intro to ConUGPT",
     page_icon="👋",
-    layout='wide'
+    layout='wide',
+    initial_sidebar_state ("expanded")
 )
 
 
@@ -108,8 +109,7 @@ html_string = '''
 </head>
 <body>
     <div class="left-column">
-        <h1>Ask Here!</h1>
-        <!-- Your existing content for the left column -->
+        <h1 style="font-family: sans-serif">Ask Here!</h1>
     </div>
 </body>
 </html>
@@ -124,4 +124,6 @@ with st.sidebar:
 
 
 st.header("Now open the sidebar to start!")
+st.text("You can always adjust the size of the sidebar")
+
 # st.link_button("Click here to try ConUGPT!", "https://conugpt.netlify.app/", type='primary')
