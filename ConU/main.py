@@ -68,11 +68,14 @@ with st.chat_message("ai"):
     st.write("Concordia University was founded on August 24, 1974.")
 st.markdown("")
 st.markdown("#### :exclamation: Increase the accuracy")
-st.info('''change your prompt in case you suspect you did not get a complete response
+st.info('''Change your prompt in case you suspect you did not get a complete response
             Example: write "who are the teachers for soen 287?"
                     instead of "who teaches soen 287?"
 ''')
+st.info('Please try removing the white space after the command.')
 st.markdown("")
+
+
 
 html_string = '''
 <!DCTYPE html>
@@ -106,10 +109,11 @@ html_string = '''
     </script>
 </head>
 <body>
-    <div class="left-column">
+    <div>
         <h1 style="font-family: sans-serif">Ask Here!</h1>
-        <span style='font-size:50px;'>&#8595;</span>
     </div>
+    <span style='font-size:50px;'>&#8595;</span>
+
 </body>
 </html>
 '''
