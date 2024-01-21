@@ -1,18 +1,23 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
+
 st.set_page_config(
     page_title="Intro to ConUGPT",
     page_icon="👋",
-    # layout='wide'
+    layout='wide'
 )
+
+
+# bigcol1, bigcol2 = st.columns([3,1])
+# with bigcol1:
 
 st.title('Welcome to our ConUGPT!')
 st.markdown('''
-A customized GPT that helps students find information about their Concorida teachers. 
-With this app, you can easily find out which professors are teaching a particular course, 
-and even learn about the ratings of individual teachers. 
-This app is perfect for students who want to stay informed about their teachers and make informed decisions about their education. 
+A customized GPT that helps students find information about their Concorida teachers.
+With this app, you can easily find out which professors are teaching a particular course,
+and even learn about the ratings of individual teachers.
+This app is perfect for students who want to stay informed about their teachers and make informed decisions about their education.
 With its intuitive interface and powerful search capabilities, you will shine this semester! ''')
 st.divider()
 st.markdown('### :thinking_face: Have you ever thought...')
@@ -20,21 +25,18 @@ st.markdown("")
 col1, col2, col3 = st.columns(3, gap='medium')
 with col1:
     st.write("I wish I can see the corresponding teachers of each class...I have to go all the way to the enrollment page to see the instructures :(")
-    st.image("ConU/img/search.jpg")
-    
+    st.image("img/search.jpg")
+   
 with col2:
     st.write("I want to know who is the best teacher of the class. ")
-    st.image("ConU/img/survey.jpg")
-
+    st.image("img/survey.jpg")
 with col3:
     st.write("It's very annoying to search every single teacher, making tons of tabs!")
-    st.image("ConU/img/stress.jpg")
-    
+    st.image("img/stress.jpg")
 st.divider()
-
 st.markdown("### :thumbsup: We are here to help you!")
-st.markdown("#### :question: How to")
-st.write("Very simple. Just ask what you are looking for!")
+st.markdown("#### :question: How does it work?")
+st.write("W have feeded AI all the data of classes and professors. ...")
 st.markdown("#### :question:  What kind of questions can I ask?")
 st.write("Below are the examples of the commands:")
 with st.chat_message("user"):
@@ -60,19 +62,29 @@ with st.chat_message("ai"):
 st.markdown("")
 st.markdown("#### :exclamation: Increase the accuracy")
 st.info('''change your prompt in case you suspect you did not get a complete response
-            Example: write "who are the teachers for soen 287?" 
+            Example: write "who are the teachers for soen 287?"
                     instead of "who teaches soen 287?"
 ''')
 st.markdown("")
+
 html_string = '''
+<!DCTYPE html>
+<html style="height: 100%;">
 <head>
-    <title>My Website</title>
-    <style>
-        div {
-            height: 100vh;
+<title>ConUGPT</title>
+<style>
+        body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
     </style>
-    <script type="text/javascript">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+        <script type="text/javascript">
         (function(d, t) {
             var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
             v.onload = function() {
@@ -87,12 +99,22 @@ html_string = '''
     </script>
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
-    <div></div>
+    <div class="left-column">
+        <h1>Ask Here!</h1>
+        <!-- Your existing content for the left column -->
+    </div>
 </body>
 </html>
 '''
 
-# components.html(html_string)
+with st.sidebar:
+    components.html(html_string, height=705)
 
-st.link_button("Click here to try ConUGPT!", "https://conugpt.netlify.app/", type='primary')
+
+# with bigcol2:
+#     components.html(html_string, height=800)
+
+
+st.header("Now open the sidebar to start!")
+# st.link_button("Click here to try ConUGPT!", "https://conugpt.netlify.app/", type='primary')
+
