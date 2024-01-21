@@ -1,0 +1,139 @@
+﻿Heading:class code and class name
+sub-heading: teacher's name, their rating website link, student rating score
+
+
+
+
+ENGR 201 Professional Practice and Responsibility  
+Brandiff Caron, https://www.ratemyprofessors.com/professor/1717641, 4.2
+Govind Gopakumar, https://www.ratemyprofessors.com/professor/1417670, 4.8
+
+
+ENGR 202 Sustainable Development and Environmental Stewardship 
+Caroline H-Vermette, https://www.ratemyprofessors.com/professor/2927654, 3
+John Hadjinicolaou, https://www.ratemyprofessors.com/professor/468990, 3.5
+Maria Elektorowicz, https://www.ratemyprofessors.com/professor/362722, 2.6
+
+
+ENGR 213 Applied Ordinary Differential Equations
+Emre Erkmen, https://www.ratemyprofessors.com/professor/2763904, 2.4
+Paradis Alexandre, https://www.ratemyprofessors.com/professor/1615330, 4.8
+Benjamin Hersey, https://www.ratemyprofessors.com/professor/2818916, 5
+Dmitry Korotkin, https://www.ratemyprofessors.com/professor/2096487, 1
+Sam Eskandarian, https://www.ratemyprofessors.com/professor/2326134, 3.8
+
+
+ENGR 233 Applied Advanced Calculus
+Paradis Alexandre, https://www.ratemyprofessors.com/professor/1615330, 4.8
+Ali Nazemi, https://www.ratemyprofessors.com/professor/2096240, 3.6
+Benjamin Hersey, https://www.ratemyprofessors.com/professor/2818916, 5
+Dmitry Korotkin, https://www.ratemyprofessors.com/professor/2096487, 1
+Donald Peter Davis, https://www.ratemyprofessors.com/professor/13465, 2.5
+
+
+SOEN 228 System Hardware 
+Tadeusz Obuchowicz, https://www.ratemyprofessors.com/professor/2137423, 4.5
+Hakim Mellah, https://www.ratemyprofessors.com/professor/2606008, 4.3
+Donald Peter Davis, https://www.ratemyprofessors.com/professor/13465, 2.5
+Abdelwahab Elnaka, https://www.ratemyprofessors.com/professor/2432487, 3.3
+Hakim Mellah, https://www.ratemyprofessors.com/professor/2606008, 4.3
+Amr Youssef, https://www.ratemyprofessors.com/professor/547621, 4
+
+
+
+
+SOEN 287 Web Programming
+Abdelghani Benharref, https://www.ratemyprofessors.com/professor/2813616, 1.9
+Bonaventure Molowku, https://www.ratemyprofessors.com/professor/2720567, 5
+Yuhong Yan, https://www.ratemyprofessors.com/professor/1210816, 1.9
+
+
+SOEN 341 Software Process and Practices
+Tse-Hsun Peter Chen, https://www.ratemyprofessors.com/professor/2332795, 3
+Rodrigo Morales Alvarado, https://www.ratemyprofessors.com/professor/2564440, 1.7
+Joumana Dargham, https://www.ratemyprofessors.com/professor/2721883, 4.1
+Constantinos Constantinides, https://www.ratemyprofessors.com/professor/511872, 3.4
+
+ELEC 275 Principles of Electrical Engineering 
+John Xiupu Zhang, https://www.ratemyprofessors.com/professor/2235453, 2.6
+Steve Shih, https://www.ratemyprofessors.com/professor/2206703, 4.5
+Donald Peter Davis, https://www.ratemyprofessors.com/professor/13465, 2.5
+
+
+ENGR 371 Probability and Statistics in Engineering 
+Steve Shih, https://www.ratemyprofessors.com/professor/2206703, 4.5
+Pouya Valizadeh, https://www.ratemyprofessors.com/professor/1173962, 2.9
+Donald Peter Davis, https://www.ratemyprofessors.com/professor/13465, 2.5
+
+
+SOEN 331 Formal Methods for Software Engineering
+Constantinos Constantinides, https://www.ratemyprofessors.com/professor/511872, 3.4
+Abdelghani Benharref, https://www.ratemyprofessors.com/professor/2813616, 1.9
+
+
+ENGR 391 Numerical Methods in Engineering
+Sam Eskandarian, https://www.ratemyprofessors.com/professor/2326134, 3.8
+Donald Peter Davis, https://www.ratemyprofessors.com/professor/13465, 2.5
+Rolf Wuthrich, https://www.ratemyprofessors.com/professor/952282, 3.3
+
+
+
+
+SOEN 342 Software Requirements and Deployment 
+Joumana Dargham, https://www.ratemyprofessors.com/professor/2721883, 4.1
+Constantinos Constantinides, https://www.ratemyprofessors.com/professor/511872, 3.4
+Abdelwahab Elnaka, https://www.ratemyprofessors.com/professor/2432487, 3.3
+
+
+
+SOEN 343 Software Architecture and Design 
+Joumana Dargham, https://www.ratemyprofessors.com/professor/2721883, 4.1
+Constantinos Constantinides, https://www.ratemyprofessors.com/professor/511872, 3.4
+Peter Rigby, https://www.ratemyprofessors.com/professor/1790325, 3.6
+
+
+
+SOEN 384 Management, Measurement and Quality Control
+Nora Houari, https://www.ratemyprofessors.com/professor/1649890, 3.5
+
+
+
+
+SOEN 357 User Interface Design 
+Hakim Mellah, https://www.ratemyprofessors.com/professor/2606008, 4.3
+
+
+
+
+ENGR 301 Engineering Management Principles and Economics
+Sang Hyeok Han, https://www.ratemyprofessors.com/professor/2217464, 2.6
+Mounir Naili,https://www.ratemyprofessors.com/professor/2926665, 3
+Rebecca Dziedzic, https://www.ratemyprofessors.com/professor/2630391, 2.4
+Ketra Schmitt, https://www.ratemyprofessors.com/professor/1422312, 2.6
+
+
+SOEN 321 Information Systems Security 
+Mohammad Mannan, https://www.ratemyprofessors.com/professor/1746773, 3.4
+Amr Youssef, https://www.ratemyprofessors.com/professor/547621, 4
+
+
+ENGR 392 Impact of Technology on Society 
+Govind Gopakumar, https://www.ratemyprofessors.com/professor/1417670, 4.8
+Pierre Ouellet, https://www.ratemyprofessors.com/professor/60759, 3.8
+Ketra Schmitt, https://www.ratemyprofessors.com/professor/1422312, 2.6
+
+
+
+
+SOEN 490 Capstone Software Engineering Design Project
+Peter Rigby, https://www.ratemyprofessors.com/professor/1790325, 3.6
+
+
+SOEN 363 Data Systems for Software Engineers 
+Ali Jannatpour, https://www.ratemyprofessors.com/professor/1924758, 2.6
+
+
+
+
+SOEN 345 Software Testing, Verification and Quality Assurance
+Ali Jannatpour, https://www.ratemyprofessors.com/professor/1924758, 2.6

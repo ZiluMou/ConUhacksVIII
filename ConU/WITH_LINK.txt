@@ -1,0 +1,67 @@
+﻿Heading:Class code and class name
+sub-heading: teacher's name, their profile website link, overall score by students 
+
+
+
+
+
+COMP 228 System Hardware
+Hassan Hajjdiab, https://www.ratemyprofessors.com/professor/2620322, 3.8
+
+
+COMP 232 Mathematics for Computer Science 
+Ali Jannatpour, https://www.ratemyprofessors.com/professor/1924758, 2.6 
+Bonaventure Molowku, https://www.ratemyprofessors.com/professor/2720567, 5
+Gosta Grahne, https://www.ratemyprofessors.com/professor/110594, 1.8
+Hassan Hajjdiab, https://www.ratemyprofessors.com/professor/2620322, 3.8
+Pankaj Kamthan, https://www.ratemyprofessors.com/professor/2390612, 3
+
+
+COMP 233 Probability and Statistics for Computer Science 
+Thomas Fevens, https://www.ratemyprofessors.com/professor/104128, 3.5 
+Yiming Xiao, https://www.ratemyprofessors.com/professor/2657018, 3.1
+
+
+COMP 248 Object‐Oriented Programming I 
+Aiman Hanna, https://www.ratemyprofessors.com/professor/103439, 5
+Bonaventure Molowku, https://www.ratemyprofessors.com/professor/2720567, 5
+Hassan Hajjdiab, https://www.ratemyprofessors.com/professor/2620322, 3.8
+Juergen Rilling, https://www.ratemyprofessors.com/professor/459550, 3.6
+Nora Houari, https://www.ratemyprofessors.com/professor/1649890, 3.5
+
+
+COMP 249 Object‐Oriented Programming II 
+Aiman Hanna, https://www.ratemyprofessors.com/professor/103439, 5
+Ali Jannatpour, https://www.ratemyprofessors.com/professor/1924758, 2.6
+Hassan Hajjdiab, https://www.ratemyprofessors.com/professor/2620322, 3.8
+Nora Houari, https://www.ratemyprofessors.com/professor/1649890, 3.5
+
+
+COMP 335 Introduction to Theoretical Computer Science 
+Ali Jannatpour, https://www.ratemyprofessors.com/professor/1924758, 2.6
+Aram Khanlari, https://www.ratemyprofessors.com/professor/2819931, 5
+Gosta Grahne, https://www.ratemyprofessors.com/professor/110594, 1.8
+Nora Houari, https://www.ratemyprofessors.com/professor/1649890, 3.5
+
+
+COMP 346 Operating Systems 
+Aiman Hanna, https://www.ratemyprofessors.com/professor/103439, 5
+Ali Jannatpour, https://www.ratemyprofessors.com/professor/1924758, 2.6
+Nora Houari, https://www.ratemyprofessors.com/professor/1649890, 3.5
+
+
+COMP 348 Principles of Programming Languages 
+Ali Jannatpour, https://www.ratemyprofessors.com/professor/1924758, 2.6
+Gosta Grahne, https://www.ratemyprofessors.com/professor/110594, 1.8
+
+
+COMP 352 Data Structures and Algorithms 
+Aiman Hanna, https://www.ratemyprofessors.com/professor/103439, 5
+Khaled Jababo, https://www.ratemyprofessors.com/professor/868518, 3.3
+Nora Houari,https://www.ratemyprofessors.com/professor/1649890 , 3.5
+Thomas Fevens, https://www.ratemyprofessors.com/professor/104128, 3.5
+
+
+COMP 354 Introduction to Software Engineering 
+Juergen Rilling, https://www.ratemyprofessors.com/professor/459550, 3.6
+Khaled Jababo,https://www.ratemyprofessors.com/professor/868518, 3.3
