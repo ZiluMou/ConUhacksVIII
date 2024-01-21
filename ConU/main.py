@@ -25,18 +25,23 @@ st.markdown("")
 col1, col2, col3 = st.columns(3, gap='medium')
 with col1:
     st.write("I wish I can see the corresponding teachers of each class...I have to go all the way to the enrollment page to see the instructures :(")
-    st.image("img/search.jpg")
+    st.image("ConU/img/search.jpg")
    
 with col2:
     st.write("I want to know who is the best teacher of the class. ")
-    st.image("img/survey.jpg")
+    st.image("ConU/img/survey.jpg")
+    
 with col3:
     st.write("It's very annoying to search every single teacher, making tons of tabs!")
-    st.image("img/stress.jpg")
+    st.image("ConU/img/stress.jpg")
 st.divider()
+
+
 st.markdown("### :thumbsup: We are here to help you!")
+
 st.markdown("#### :question: How does it work?")
 st.write("W have feeded AI all the data of classes and professors. ...")
+
 st.markdown("#### :question:  What kind of questions can I ask?")
 st.write("Below are the examples of the commands:")
 with st.chat_message("user"):
@@ -44,16 +49,19 @@ with st.chat_message("user"):
 with st.chat_message("ai"):
     st.write("John Doe, Charlie Walsh, and Logan Hart are teaching comp 233. John Doe has the best rate of 4.3.")
 st.markdown("")
+
 with st.chat_message("user"):
     st.write("What are some classes taught by John Doe?")
 with st.chat_message("ai"):
     st.write("John Doe teaches comp 233 and comp 248 this semester. ")
 st.markdown("")
+
 with st.chat_message("user"):
     st.write("What is the name of the class with code 'comp 335'?")
 with st.chat_message("ai"):
     st.write(" 'Introduction to Theoretical Computer Science' is the name of the class.")
 st.markdown("")
+
 st.write("You can also ask general info about the school.")
 with st.chat_message("user"):
     st.write("When was Concordia founded?")
@@ -117,4 +125,3 @@ with st.sidebar:
 
 st.header("Now open the sidebar to start!")
 # st.link_button("Click here to try ConUGPT!", "https://conugpt.netlify.app/", type='primary')
-
